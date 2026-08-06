@@ -1,0 +1,11 @@
+title: 実用ノート
+description: 暮らしと仕事に役立つ実用情報を、調べて・確かめて・分かりやすくまとめるブログです。
+lang: ja
+url: "https://estatix-project1.github.io"
+baseurl: ""
+theme: minima
+permalink: /:year/:month/:day/:title/
+timezone: Asia/Tokyo
+
+header_pages:
+  - about.md
