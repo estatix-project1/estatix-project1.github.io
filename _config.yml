@@ -12,3 +12,12 @@ google_site_verification: rE_J2pAv1iWAdoZF8XxTq19N9qM8xfLEF5doC_4QDpw
 
 header_pages:
   - about.md
+
+# 使用プラグイン(GitHub Pages が許可しているもののみ)
+#   jekyll-feed     : RSS フィード(/feed.xml)を生成
+#   jekyll-seo-tag  : title/description/OGP などの meta タグを生成
+#   jekyll-sitemap  : サイトマップ(/sitemap.xml)と robots.txt を生成
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
