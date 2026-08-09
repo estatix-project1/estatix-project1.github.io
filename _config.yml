@@ -7,5 +7,8 @@ theme: minima
 permalink: /:year/:month/:day/:title/
 timezone: Asia/Tokyo
 
+# Google Search Console の所有権確認(jekyll-seo-tag が meta タグを出力する)
+google_site_verification: rE_J2pAv1iWAdoZF8XxTq19N9qM8xfLEF5doC_4QDpw
+
 header_pages:
   - about.md
