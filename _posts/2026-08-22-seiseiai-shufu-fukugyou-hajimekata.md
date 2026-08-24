@@ -125,7 +125,7 @@ A. AI を使いこなす過程で、「どう頼めば良いアウトプット�
 
 生成 AI を使った副業は、他にどんな具体例があるのかも気になるはずです。副業のバリエーションは姉妹記事「[Claude Code 副業の具体例]({{ site.baseurl }}/ai活用/2026/08/19/claude-code-fukugyou-gutairei.html)」で整理しているので、あわせて参考にしてみてください。
 
-より体系的な導入手順・30 日プランは、姉妹書籍『Claude Code で始める AI エージェント副業入門』(近日 Kindle にて発売予定)で扱っています。発売次第このページからリンクを追加します。
+より体系的な導入手順・30 日プランは、姉妹書籍[『Claude Code で始める AI エージェント副業入門』](https://www.amazon.co.jp/dp/B0GX2ZQYQW)（Kindle 版・¥499 / Kindle Unlimited 対象）で扱っています。
 
 ---
 

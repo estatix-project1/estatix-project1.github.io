@@ -166,7 +166,7 @@ A. まずは無料プランで十分です。1 日に何本もブログ記事を
 
 ブログを副業で継続するには、1 記事の質と同じくらい「書き続けられる仕組み」が大切です。AI ツールの使い分けで悩んでいる方は、姉妹記事「[Claude Code 副業の具体例]({{ site.baseurl }}/ai活用/2026/08/19/claude-code-fukugyou-gutairei.html)」もあわせてどうぞ。
 
-より体系的な導入手順・30 日プランは、姉妹書籍『Claude Code で始める AI エージェント副業入門』(近日 Kindle にて発売予定)で扱っています。発売次第このページからリンクを追加します。
+より体系的な導入手順・30 日プランは、姉妹書籍[『Claude Code で始める AI エージェント副業入門』](https://www.amazon.co.jp/dp/B0GX2ZQYQW)（Kindle 版・¥499 / Kindle Unlimited 対象）で扱っています。
 
 ---
 
