@@ -7,6 +7,11 @@ theme: minima
 permalink: /:year/:month/:day/:title/
 timezone: Asia/Tokyo
 
+# 未来日時の記事もビルド対象にする(既定は false)。
+# 自動実行は07:00に走り記事の date は 07:20 のため、既定のままだと
+# 「自分のビルドでは常に未来扱い=公開されない」状態になっていた(2026-08-26 判明)。
+future: true
+
 # Google Search Console の所有権確認(jekyll-seo-tag が meta タグを出力する)
 google_site_verification: rE_J2pAv1iWAdoZF8XxTq19N9qM8xfLEF5doC_4QDpw
 
