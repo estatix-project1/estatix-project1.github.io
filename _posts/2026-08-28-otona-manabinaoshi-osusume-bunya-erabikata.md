@@ -111,9 +111,9 @@ A. 焦りをそのまま学び直しの動機にすると続きません。ま�
 
 ## この記事の関連情報
 
-- [AI 副業 プログラミング不要 始め方](https://estatix-project1.github.io/2026/08/19/ai-fukugyou-programming-fuyou-hajimekata/): AIツールでの副業を、コードを書かずに始める手順
-- [Claude Code 副業 始め方 主婦](https://estatix-project1.github.io/2026/08/22/claude-code-fukugyou-hajimekata-shufu/): 30日プランで学び直しから副業へつなげる例
-- [Claude Code 料金 目安 個人利用 選び方](https://estatix-project1.github.io/2026/08/20/claude-code-ryoukin-meyasu-kojin-riyou-erabikata/): IT分野で学び直しを始める際の費用感
+- [Claude Code 副業の具体例](https://estatix-project1.github.io/2026/08/19/claude-code-fukugyou-gutairei/): 非エンジニアでもコードを書かずに始められる7つの使い方
+- [生成AI 主婦 副業 始め方](https://estatix-project1.github.io/2026/08/22/seiseiai-shufu-fukugyou-hajimekata/): 30日プランで学び直しから副業へつなげる例
+- [Claude Code の料金プラン、個人ならどれ?](https://estatix-project1.github.io/2026/08/20/claude-code-ryoukin-plan-erabikata/): IT分野で学び直しを始める際の費用感
 
 ## まとめ
 
